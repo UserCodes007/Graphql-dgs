@@ -1,4 +1,4 @@
-package com.example.emo.Exceptions;
+package com.example.GraphqlDgs.Exceptions;
 
 import com.netflix.graphql.types.errors.TypedGraphQLError;
 import graphql.GraphQLError;
@@ -7,7 +7,6 @@ import graphql.execution.DataFetcherExceptionHandlerParameters;
 import graphql.execution.DataFetcherExceptionHandlerResult;
 import org.springframework.stereotype.Component;
 
-import java.util.*;
 import java.util.concurrent.CompletableFuture;
 
 @Component

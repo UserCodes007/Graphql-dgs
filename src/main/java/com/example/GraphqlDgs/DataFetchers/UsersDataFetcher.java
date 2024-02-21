@@ -1,9 +1,9 @@
-package com.example.emo.DataFetchers;
+package com.example.GraphqlDgs.DataFetchers;
 
-import com.example.emo.Exceptions.UserAlreadyExistsException;
-import com.example.emo.Exceptions.UserNotFoundException;
-import com.example.emo.Repository.UserRepository;
-import com.example.emo.model.User;
+import com.example.GraphqlDgs.Exceptions.UserAlreadyExistsException;
+import com.example.GraphqlDgs.Exceptions.UserNotFoundException;
+import com.example.GraphqlDgs.Repository.UserRepository;
+import com.example.GraphqlDgs.model.User;
 import com.netflix.graphql.dgs.*;
 
 import java.util.*;

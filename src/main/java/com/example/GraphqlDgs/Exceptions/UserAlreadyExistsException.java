@@ -1,4 +1,4 @@
-package com.example.emo.Exceptions;
+package com.example.GraphqlDgs.Exceptions;
 
 public class UserAlreadyExistsException extends RuntimeException{
 }

@@ -1,6 +1,6 @@
-package com.example.emo.Repository;
+package com.example.GraphqlDgs.Repository;
 
-import com.example.emo.model.User;
+import com.example.GraphqlDgs.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User,Long> {}

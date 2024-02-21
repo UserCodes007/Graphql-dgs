@@ -1,4 +1,4 @@
-package com.example.emo.model;
+package com.example.GraphqlDgs.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
